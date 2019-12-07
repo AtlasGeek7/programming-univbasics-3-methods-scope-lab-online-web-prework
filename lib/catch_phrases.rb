@@ -8,6 +8,11 @@ def toadstool
   puts status
 end
 
+def link
+  phrase = "It's-a me, Mario!"
+  puts phrase
+end
+
 def any_phrase(phrase)
   phrase = "It's-a me, Mario!"
   puts phrase
