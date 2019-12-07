@@ -8,7 +8,7 @@ def toadstool
   puts status
 end
 
-def mario
+def any_phrase()
   phrase = "It's-a me, Mario!"
   puts phrase
 end
