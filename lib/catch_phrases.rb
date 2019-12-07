@@ -14,6 +14,5 @@ def link
 end
 
 def any_phrase(phrase)
-  phrase = "It's-a me, Mario!"
   puts phrase
 end
